@@ -110,7 +110,7 @@ I enjoy turning ideas into working systems — from **real-time production-grade
 
 <div align="center">
 <a href="mailto:gyanurajmaniar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-<a href="www.linkedin.com/in/gyanu-rajmaniar-3a2a92359"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/gyanu-rajmaniar-3a2a92359"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://github.com/Grm-gh"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
 </div>
 
