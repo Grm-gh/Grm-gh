@@ -35,8 +35,11 @@ I enjoy turning ideas into working systems — from **real-time production-grade
 #### 🧩 LeetCode Heatmap Card
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sting_vitt?ext=heatmap" width="420"/>
+  <img src="https://leetcard.jacoblin.cool/sting_vitt?ext=heatmap&hide_title=true&hide_name=true&hide_logo=true&radius=10" width="420" />
 </div>
+
+
+
 
 #### ⚔️ Codeforces Badge
 
@@ -107,7 +110,7 @@ I enjoy turning ideas into working systems — from **real-time production-grade
 
 <div align="center">
 <a href="mailto:gyanurajmaniar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/gyanu-rajmaniar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<a href="www.linkedin.com/in/gyanu-rajmaniar-3a2a92359"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <a href="https://github.com/Grm-gh"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
 </div>
 
