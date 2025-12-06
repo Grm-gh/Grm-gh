@@ -17,7 +17,7 @@ I enjoy turning ideas into working systems — from **real-time production-grade
 
 - 🔥 **1718+ LeetCode Rating**
 - 🧩 **500+ Problems Solved**
-- 🏆 **Rank 815 / 20,000+ (Top 5%) in LC Biweekly 163**
+- 🏆 **Rank 914 / 20,000+ (Top 5%) in LC Biweekly 163**
 - ⚔️ **Codeforces: Pupil (Peak ~1320)**
 
 #### 📌 Profiles
@@ -26,7 +26,7 @@ I enjoy turning ideas into working systems — from **real-time production-grade
 |---------|------|
 | 🧩 LeetCode | https://leetcode.com |
 | ⚔️ Codeforces | https://codeforces.com/profile/gyanu_rajmaniar |
-| 📄 Resume | [View Resume](https://drive.google.com/file/d/1E5dRWqgFLGDEi2oUhjxxD2EXyZlu4BXI/view?usp=drive_link) |
+| 📄 Resume | [View Resume]([https://drive.google.com/file/d/1E5dRWqgFLGDEi2oUhjxxD2EXyZlu4BXI/view?usp=drive_link](https://drive.google.com/file/d/1h9Kq9EjHcfsr5uKc6H-Nf007skBrTP_1/view?usp=sharing)) |
 
 ---
 
