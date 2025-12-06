@@ -35,7 +35,7 @@ I enjoy turning ideas into working systems — from **real-time production-grade
 #### 🧩 LeetCode Heatmap Card
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sting_vitt?ext=heatmap&hide_title=true&hide_name=true&hide_logo=true&radius=10" width="420" />
+  <img src="https://leetcard.jacoblin.cool/sti_vitt?ext=heatmap&hide_title=true&hide_name=true&hide_logo=true&radius=10" width="420" />
 </div>
 
 
