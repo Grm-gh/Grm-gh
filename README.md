@@ -26,7 +26,8 @@ I enjoy turning ideas into working systems — from **real-time production-grade
 |---------|------|
 | 🧩 LeetCode | https://leetcode.com |
 | ⚔️ Codeforces | https://codeforces.com/profile/gyanu_rajmaniar |
-| 📄 Resume | [View Resume]([https://drive.google.com/file/d/1h9Kq9EjHcfsr5uKc6H-Nf007skBrTP_1/view?usp=drive_link]) |
+| 📄 Resume | [View Resume](https://drive.google.com/file/d/1h9Kq9EjHcfsr5uKc6H-Nf007skBrTP_1/view?usp=drive_link) |
+
 
 ---
 
