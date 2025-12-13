@@ -18,7 +18,7 @@ I enjoy turning ideas into working systems — from **real-time production-grade
 - 🔥 **1718+ LeetCode Rating**
 - 🧩 **500+ Problems Solved**
 - 🏆 **Rank 914 / 20,000+ (Top 5%) in LC Biweekly 163**
-- ⚔️ **Codeforces: Pupil (Peak ~1320)**
+- ⚔️ **Codeforces: Pupil (Peak ~1417)**
 
 #### 📌 Profiles
 
