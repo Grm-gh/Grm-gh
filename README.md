@@ -46,7 +46,7 @@ I enjoy turning ideas into working systems — from **real-time production-grade
 
 <div align="center">
   
-[![Codeforces Badge](https://cp-logo.vercel.app/codeforces/gyanu_rajmaniar?logo=true)](https://codeforces.com/profile/gyanu_rajmaniar)
+[![Codeforces Badge](https://cp-logo.vercel.app/codeforces/gyanu_rajmaniar?logo=true)](https://codeforces.com/profile/gyanurajmaniar)
 
 </div>
 
